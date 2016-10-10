@@ -11,15 +11,16 @@ Why is it bad? Because it violates the principles of testing. Tests should be at
 
 Do we have a salvation from this testing hell? Yes we do. We must limit the number of our UI tests and we must keep this number as small as possible. There is no direct answers about how to do it in each specific case, but there are conceptual solutions for this.
 
-1) Authorization     
+__**1) Authorization**__     
 If you need to login into an application in all of your tests, then you can try to receive a session via HTTP interactions and pass this session to a WebDriver instance.
 
-2) You don't need to check the size of fonts or exact CSS classes, or order of elements if it's not a critical thing. And in almost all cases it's not a critical thing.
+__**2) Visual details**__    
+You don't need to check the size of fonts or exact CSS classes, or order of elements if it's not a critical thing. And in almost all cases it's not a critical thing.
 
-3) Different combinations of parameters     
+__**3) Different combinations of parameters**__     
 Go to a lower level. You need to write a couple of UI tests for the right path and for error handling. And you can check all other possible combinations via HTTP request/response.
 
-4) Test prerequisites      
+__**4) Test prerequisites**__      
 Try to do it via database or via API. There is definitely a way that exists to do it that doesn't involve UI manipulation.
 
 And most of all, we need to constantly learn and try to understand how our systems work. It helps us to do our job better.
