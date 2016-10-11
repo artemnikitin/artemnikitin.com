@@ -10,7 +10,7 @@ before_script:
  - tar -xvf hugo_0.17_Linux-64bit.tar.gz
 
 script:
- - hugo
+ - ./hugo_0.17_linux_amd64/hugo_0.17_linux_amd64
  
 after_success:
  - s3-tool upload -bucket artemnikitin.com -region eu-west-1 -key / -path /public
