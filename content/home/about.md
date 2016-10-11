@@ -41,13 +41,13 @@ weight = 0
 
 # Who is Artem Nikitin?    
 
-From some point he's just one of the 7 billion people on Earth.  From other point you can see something special in him. You can see a true passion for software quality and engineering, genuine interest to new tools and practices, free mind and beating heart.
-
+From some point he's just one of the 7 billion people on Earth.  From other point you can see something special in him. You can see a true passion for software quality and engineering, genuine interest to new tools and practices, free mind and beating heart.        
       
 I'm a Test Engineer with knowledge in these areas:    
 - functional, integration, loading and automated testing      
 - web apps, backend, Android and API testing     
-- mostly Java, but with little bit of Groovy, Scala, Python and Go experience     
+- mostly Java, but with little bit of Groovy, Scala, Python experience     
+- Gopher at nights and in free time since 2015        
 - passionate about Continuous Integration and other engineering practices      
 - curious about DevOps, trying to make work easy with different tools, scripts and hacks     
 - passionate believer in point of view that testing it's not about bugs and reports, but about overall improvement of quality, speed and productivity.     
