@@ -1,0 +1,16 @@
+language: go
+go: 
+ - tip
+
+install:
+ - go get github.com/artemnikitin/s3-tool
+
+before_script:
+ - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17_Linux-64bit.tar.gz
+ - tar -xvf /tmp/casper.tar.gz
+
+script:
+ - hugo
+ 
+after_success:
+ - s3-tool upload -bucket artemnikitin.com -region eu-west-1 -key / -path /public
