@@ -12,5 +12,5 @@ before_script:
 script:
  - ./hugo_0.17_linux_amd64/hugo_0.17_linux_amd64
  
-deploy:
+after_success:
  - s3-tool upload -bucket artemnikitin.com -region eu-west-1 -key / -path $GOPATH/src/github.com/artemnikitin/artemnikitin.com/public
