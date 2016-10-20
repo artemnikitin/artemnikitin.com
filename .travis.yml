@@ -1,9 +1,10 @@
 language: go
 go: 
- - 1.7.1
+ - 1.7.3
 
 install:
  - go get github.com/artemnikitin/s3-tool
+ - go get github.com/artemnikitin/cci
 
 before_script:
  - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17_Linux-64bit.tar.gz
@@ -14,3 +15,4 @@ script:
  
 after_success:
  - s3-tool upload -bucket artemnikitin.com -region eu-west-1 -key / -path $GOPATH/src/github.com/artemnikitin/artemnikitin.com/public
+ - cci -path $CONFIG_URL
