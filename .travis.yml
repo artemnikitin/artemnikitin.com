@@ -15,4 +15,4 @@ script:
  
 after_success:
  - s3-tool upload -bucket artemnikitin.com -region eu-west-1 -key / -path $GOPATH/src/github.com/artemnikitin/artemnikitin.com/public
- - cci -path $CONFIG_URL
+ - cci -config $CONFIG_URL
