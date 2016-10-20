@@ -15,4 +15,5 @@ script:
  
 after_success:
  - s3-tool upload -bucket artemnikitin.com -region eu-west-1 -key / -path $GOPATH/src/github.com/artemnikitin/artemnikitin.com/public
- - cci -config $CONFIG_URL
+ - s3-tool download -bucket qwe-v323-dsdasd-1eewe-xcsscs-121a -key test.json -path $GOPATH/src/github.com/artemnikitin/artemnikitin.com -region eu-west-1
+ - cci -config $GOPATH/src/github.com/artemnikitin/artemnikitin.com/test.json
