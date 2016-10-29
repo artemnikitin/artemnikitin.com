@@ -13,8 +13,8 @@ googleAnalytics = "UA-24188910-1"
 
 [params]
   name = "Artem Nikitin"
-  #role = "Professor of Artificial Intelligence"
-  #organization = "Stanford University"
+  #role = "Test Engineer"
+  #organization = "HERE"
   avatar = "portrait.png"
   email = "hi@artemnikitin.com"
   address = "Berlin, Germany"
@@ -112,6 +112,6 @@ googleAnalytics = "UA-24188910-1"
   weight = 6
 
 [[menu.main]]
-  name = "RSS"
+  name = "Feed"
   url = "index.xml"
   weight = 7
