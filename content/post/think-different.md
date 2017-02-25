@@ -8,7 +8,7 @@ date: 2017-02-22 01:16:28.000000000 +02:00
 <a title="By Rob Janoff (Apple) [Public domain or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AApple_logo_Think_Different.png"><img width="256" alt="Apple logo Think Different" align="middle" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Apple_logo_Think_Different.png"/></a>
 </center>      
 
-I named this post after a very well-known slogan from Apple advertising. But we will not tell about Apple, we will talk about [Go](https://golang.org/), the programming language that was created by exactly that type of people.   
+I named this post after a very well-known slogan from Apple advertising. But we will not talk about Apple, we will talk about [Go](https://golang.org/), the programming language that was created by exactly that type of people.   
 
 The landscape of programming languages is huge. But there are something common for almost all of them. They try to put a lot of new features with every release. Sometimes, they broke compatibility between different versions, like [Scala](https://www.quora.com/Why-isnt-Scala-backward-compatible) or even broke their community into 2 parts, like [Python](https://news.ycombinator.com/item?id=7799524). Sometimes, they just bloat language, like [Java](https://www.quora.com/Why-do-some-programmers-hate-Java-1).     
 

@@ -5,7 +5,7 @@ date: 2017-02-25 01:16:28.000000000 +02:00
 ---
 
 My [previous post](/post/think-different) about creators of [Go](https://golang.org), who think different, ended with a phrase
-`Does it mean that they right again? I don’t know, we will see…`. And now we can for sure say that they were right again. 
+`Does it mean that they right again? I don’t know, we will see…`. And now we can say for sure that they were right again. 
 
 If you didn't hear it, then you should read [this post](https://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/). It's an incident report from [Cloudflare](https://www.cloudflare.com/) regarding significant vulnerability discovered in their service. But they didn't mention the most important part, how it was found.
                                                                                                                                                                                                                                                                                               
