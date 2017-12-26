@@ -43,22 +43,19 @@ weight = 0
 
 From some point he's just one of the 7 billion people on Earth.  From other point you can see something special in him. You can see a true passion for software quality and engineering, genuine interest to new tools and practices, free mind and beating heart.    
 
-I'm a Test Engineer with knowledge in these areas:    
-- functional, integration, loading and automated testing      
-- web apps, backend, Android and API testing     
-- mostly Java, but with little bit of Groovy, Scala and Python experience     
-- Gopher at nights and in my free time since 2015        
-- passionate about CI, CD and other engineering practices      
-- curious about DevOps, trying to make work easy with different tools, scripts and hacks     
-- passionate believer in point of view that testing it's not about bugs and reports, but about overall improvement of quality, speed and productivity.     
+I'm a System Engineer with knowledge in these areas:    
+- mostly Java and Go, but also with a little bit of Groovy, Scala and Python experience       
+- Gopher since 2015     
+- AWS user since 2010     
+- passionate about Continuous Integration, Continuous Delivery, and other engineering practices     
+- strong believer in DevOps approach, trying to make work easy for my team with different tools, scripts, and hacks      
 
-Open source:    
-- Author of the most starred Qiwi repository https://github.com/qiwi/gradle-android-publishing-plugin     
-- One of my tool was mentioned in AWS blog post https://aws.amazon.com/blogs/aws/aws-week-in-review-december-28-2015  
-- Contributor to the open AWS guide https://github.com/open-guides/og-aws         
+Open source:      
+- Contribution to several open source projects, including [Open AWS Guide](https://github.com/open-guides/og-aws), [protoactor-go](https://github.com/AsynkronIT/protoactor-go), [autospotting](https://github.com/cristim/autospotting) and others   
+- One of my repositories was mention in AWS [blog post](https://aws.amazon.com/blogs/aws/aws-week-in-review-december-28-2015 )      
 
-Public speaking:     
-- Participated in Badoo meetup http://badoo.github.io/loveqa with presentation about Continuous Integration in Visa Qiwi Wallet processing and write 2 publications in corporate blog about it.     
-- Presentation on AWS meetup in Berlin about how we are collecting metrics for mobile SDK http://www.meetup.com/aws-berlin/events/228229455    
+Public speaking:    
+-[Badoo meetup in Moscow](http://badoo.github.io/loveqa/) with the presentation about Continuous Integration in Visa Qiwi Wallet processing     
+-[AWS meetup in Berlin](http://www.meetup.com/aws-berlin/events/228229455/) with talk about collecting metrics for mobile SDK     
 
 Interested? Then don't hesitate to [contact me](#contact).
