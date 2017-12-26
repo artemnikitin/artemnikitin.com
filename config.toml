@@ -1,6 +1,6 @@
 baseurl = "https://artemnikitin.com/"
 title = "Exploring the world"
-copyright = "&copy; 2016 Artem Nikitin"
+copyright = "&copy; 2018 Artem Nikitin"
 languageCode = "en-us"
 theme = "academic"
 
@@ -13,8 +13,8 @@ googleAnalytics = "UA-24188910-1"
 
 [params]
   name = "Artem Nikitin"
-  #role = "Test Engineer"
-  #organization = "HERE"
+  role = "System Engineer"
+  organization = "HERE Technologies"
   avatar = "portrait.png"
   email = "hi@artemnikitin.com"
   address = "Berlin, Germany"
