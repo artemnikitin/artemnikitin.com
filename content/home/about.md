@@ -50,12 +50,14 @@ I'm a System Engineer with knowledge in these areas:
 - passionate about Continuous Integration, Continuous Delivery, and other engineering practices     
 - strong believer in DevOps approach, trying to make work easy for my team with different tools, scripts, and hacks      
 
-Open source:      
-- Contribution to several open source projects, including [Open AWS Guide](https://github.com/open-guides/og-aws), [protoactor-go](https://github.com/AsynkronIT/protoactor-go), [autospotting](https://github.com/cristim/autospotting) and others   
-- One of my repositories was mention in AWS [blog post](https://aws.amazon.com/blogs/aws/aws-week-in-review-december-28-2015 )      
+Open source:         
+- Contribution to several open source projects, including [Open AWS Guide](https://github.com/open-guides/og-aws), [protoactor-go](https://github.com/AsynkronIT/protoactor-go), [autospotting](https://github.com/cristim/autospotting), [flatdata](https://github.com/heremaps/flatdata) and others   
+- One of my repositories was mentioned in AWS [blog post](https://aws.amazon.com/blogs/aws/aws-week-in-review-december-28-2015 )      
 
-Public speaking:    
+Public speaking:      
 -[Badoo meetup in Moscow](http://badoo.github.io/loveqa/) with the presentation about Continuous Integration in Visa Qiwi Wallet processing     
--[AWS meetup in Berlin](http://www.meetup.com/aws-berlin/events/228229455/) with talk about collecting metrics for mobile SDK     
+-[AWS meetup in Berlin](http://www.meetup.com/aws-berlin/events/228229455/) with talk about collecting metrics for mobile SDK    
+-[GDG Berlin Golang meetup](https://www.meetup.com/golang-users-berlin/events/247313753/) with talk about Go implementation of [Flatdata](https://github.com/heremaps/flatdata)    
+-[Selenium Camp](https://seleniumcamp.com/talk/aws-hurries-to-the-rescue/) in March 2018 with talk about using AWS for different types of testing activities     
 
 Interested? Then don't hesitate to [contact me](#contact).
