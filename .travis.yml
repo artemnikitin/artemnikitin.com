@@ -1,11 +1,12 @@
-language: go
+language: python
 
-go:
- - 1.9.x
+python:
+  - "3.6"
+  
+cache: pip
 
 install:
- - go get github.com/artemnikitin/s3-tool
- - go get github.com/artemnikitin/cci
+  - pip install awscli
 
 before_script:
  - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17_Linux-64bit.tar.gz
@@ -13,8 +14,8 @@ before_script:
 
 script:
  - ./hugo_0.17_linux_amd64/hugo_0.17_linux_amd64
- - s3-tool upload -bucket artemnikitin.com -region eu-west-1 -key / -path $GOPATH/src/github.com/artemnikitin/artemnikitin.com/public
  
 after_success:
- - s3-tool download -bucket qwe-v323-dsdasd-1eewe-xcsscs-121a -key prod.json -path $GOPATH/src/github.com/artemnikitin/artemnikitin.com -region eu-west-1
- - cci -config $GOPATH/src/github.com/artemnikitin/artemnikitin.com/prod.json
+ - aws s3 rm s3://artemnikitin.com --recursive
+ - aws s3 cp public/ s3://artemnikitin.com --recursive
+ - aws cloudfront create-invalidation --distribution-id $AWS_CLOUDFRONT_ID --paths "/*"
