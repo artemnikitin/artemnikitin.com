@@ -7,7 +7,7 @@ draft = false
 widget = "about"
 
 # Order that this section will appear in.
-weight = 0
+weight = 1
 
 # List your academic interests.
 #[interests]
@@ -36,7 +36,7 @@ weight = 0
 #  course = "BSc in Artificial Intelligence"
 #  institution = "Massachusetts Institute of Technology"
 #  year = 2008
- 
+
 +++
 
 # Who is Artem Nikitin?    
@@ -54,10 +54,9 @@ Open source:
 - Contribution to several open source projects, including [Open AWS Guide](https://github.com/open-guides/og-aws), [protoactor-go](https://github.com/AsynkronIT/protoactor-go), [autospotting](https://github.com/cristim/autospotting), [flatdata](https://github.com/heremaps/flatdata) and others   
 - One of my repositories was mentioned in AWS [blog post](https://aws.amazon.com/blogs/aws/aws-week-in-review-december-28-2015 )      
 
-Public speaking:      
--[Badoo meetup in Moscow](http://badoo.github.io/loveqa/) with the presentation about Continuous Integration in Visa Qiwi Wallet processing     
--[AWS meetup in Berlin](http://www.meetup.com/aws-berlin/events/228229455/) with talk about collecting metrics for mobile SDK    
--[GDG Berlin Golang meetup](https://www.meetup.com/golang-users-berlin/events/247313753/) with talk about Go implementation of [Flatdata](https://github.com/heremaps/flatdata)    
--[Selenium Camp](https://seleniumcamp.com/talk/aws-hurries-to-the-rescue/) in March 2018 with talk about using AWS for different types of testing activities     
+Recent talks:                  
+- [Selenium Camp](https://seleniumcamp.com/talk/aws-hurries-to-the-rescue/) in March 2018 with talk about using AWS for different types of testing activities      
+- [Heisenbug](https://heisenbug-piter.ru/en/talks/2018/spb/4wqvzujdickc2awoms6kgi/) in May 2018 with talk about building CI from scratch      
+- [DevDays Vilnius](https://devdays.lt/artem-nikitin/) in May 2018 with talk about Go implementation for Flatdata         
 
 Interested? Then don't hesitate to [contact me](#contact).
