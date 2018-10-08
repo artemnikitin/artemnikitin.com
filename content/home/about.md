@@ -55,8 +55,8 @@ Open source:
 - One of my repositories was mentioned in AWS [blog post](https://aws.amazon.com/blogs/aws/aws-week-in-review-december-28-2015 )      
 
 Recent talks:                  
-- [Selenium Camp](https://seleniumcamp.com/talk/aws-hurries-to-the-rescue/) in March 2018 with talk about using AWS for different types of testing activities      
-- [Heisenbug](https://heisenbug-piter.ru/en/talks/2018/spb/4wqvzujdickc2awoms6kgi/) in May 2018 with talk about building CI from scratch      
-- [DevDays Vilnius](https://devdays.lt/artem-nikitin/) in May 2018 with talk about Go implementation for Flatdata         
+- [Selenium Camp](https://seleniumcamp.com/talk/aws-hurries-to-the-rescue/) with talk about using AWS for different types of testing activities   
+- [Heisenbug](https://heisenbug-piter.ru/en/talks/2018/spb/4wqvzujdickc2awoms6kgi/) and [DevOpsConf Russia](https://devopsconf.io/moscow/2018/abstracts/3735) with a talk about building CI from scratch         
+- [DevDays Vilnius](https://devdays.lt/artem-nikitin/) with talk about Go implementation for Flatdata         
 
 Interested? Then don't hesitate to [contact me](#contact).
