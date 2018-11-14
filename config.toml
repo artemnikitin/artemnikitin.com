@@ -13,8 +13,8 @@ googleAnalytics = "UA-24188910-1"
 
 [params]
   name = "Artem Nikitin"
-  role = "System Engineer"
-  organization = "HERE Technologies"
+  role = "Software Engineer"
+  organization = "Elastic"
   avatar = "photo.jpg"
   email = "hi@artemnikitin.com"
   address = "Berlin, Germany"

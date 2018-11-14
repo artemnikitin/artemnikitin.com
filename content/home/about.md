@@ -43,7 +43,7 @@ weight = 1
 
 From one point, he's just one of the 7 billionth people on Earth. From another point, you can see something special in him. You can see a true passion for software quality and engineering, genuine interest in new tools and practices, free mind and beating heart.        
 
-I'm a System Engineer with knowledge in these areas:    
+I'm a Software Engineer with knowledge in these areas:    
 - mostly Java and Go, but also with a little bit of Groovy, Scala and Python experience       
 - Gopher since 2015     
 - AWS user since 2010     
