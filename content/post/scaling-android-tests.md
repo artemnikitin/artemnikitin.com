@@ -4,7 +4,7 @@ title: Scaling Android tests with AWS bare metal instances
 date: 2018-12-30 12:16:28.000000000 +02:00
 ---
 
-[AWS](https://aws.amazon.com/) is the biggest public cloud out there. You could do almost everything with it except for running x86 Android emulator. Things were like that in the past. It all changed on May 17 when [bare metal instances became GA](https://medium.com/r/?url=https%3A%2F%2Faws.amazon.com%2Fabout-aws%2Fwhats-new%2F2018%2F05%2Fannouncing-general-availability-of-amazon-ec2-bare-metal-instances%2F). New instances type allows access to the underlying hardware which means running x86 Android emulators on AWS is now possible. Now you can scale your Android tests until exceeding limits on `i3.metal` instances or your money run out.    
+[AWS](https://aws.amazon.com/) is the biggest public cloud out there. You could do almost everything with it except for running x86 Android emulator. Things were like that in the past. It all changed on May 17 when [bare metal instances became GA](https://aws.amazon.com/about-aws/whats-new/2018/05/announcing-general-availability-of-amazon-ec2-bare-metal-instances/). New instances type allows access to the underlying hardware which means running x86 Android emulators on AWS is now possible. Now you can scale your Android tests until exceeding limits on `i3.metal` instances or your money run out.    
 
 ### Let's see how it works   
 First of all, you will need an Android app to play with. In this post, I will use a [simple Android app](https://github.com/artemnikitin/tts-test-app) developed by myself as an example. You can choose any app you want or even develop your own!    
