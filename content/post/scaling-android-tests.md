@@ -50,7 +50,7 @@ Now let's build it with a command `docker build -t name-of-my-container .` or y
 
 We will also need an image with an Android emulator to run tests. To make it simple let's use this [one](https://github.com/butomo1989/docker-android). It's already pre-built and contains everything that we need. Run `docker pull butomo1989/docker-android-x86-8.1` to get it.    
 
-Now as we have everything in place we need to run `i3.metal` instance in AWS (depends on your account, you may need to ask for the increased limit for this type of instances). There are a lot of ways of doing it. If you are unfamiliar with AWS in general, then you may start with checking [official docs](https%3A%2F%2Fdocs.aws.amazon.com%2FAWSEC2%2Flatest%2FUserGuide%2FEC2_GetStarted.html%23ec2-launch-instance).    
+Now as we have everything in place we need to run `i3.metal` instance in AWS (depends on your account, you may need to ask for the increased limit for this type of instances). There are a lot of ways of doing it. If you are unfamiliar with AWS in general, then you may start with checking [official docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html#ec2-launch-instance).    
 
 When an instance is up and running, connect to it, check that it has at least `Docker` and `git` installed on it and execute the following commands:
 ```
