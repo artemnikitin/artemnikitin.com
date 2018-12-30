@@ -11,7 +11,7 @@ First of all, you will need an Android app to play with. In this post, I will us
 
 The second thing to keep in mind is how to manage an environment. Simple case - you will need to install only Android SDK, the version depends on your app. For the complex cases, it might be much more complicated. Imagine we are talking about CI server in a big company where a lot of developers work on different Android apps. In this case, you will need to have a lot of different SDK versions, could be NDK or other dependencies.     
 
-To make environment management easier we will use [Docker](https://www.docker.com/). A small tool that started a full-scale IT revolution several years ago. Let's build our own image with Android SDK. Example of Dockerfile for a typical container for an Android app will look like this:     
+To make environment management easier we will use [Docker](https://www.docker.com/). A small tool that started a full-scale IT revolution several years ago. Let's build our own image with Android SDK. Example of `Dockerfile` for a typical container for an Android app will look like this:     
 ```
 FROM ubuntu:16.04
 
