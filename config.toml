@@ -1,6 +1,6 @@
 baseurl = "https://artemnikitin.com/"
-title = "Exploring the world"
-copyright = "&copy; 2018 Artem Nikitin"
+title = "Exploring the software world"
+copyright = "&copy; 2019 Artem Nikitin"
 languageCode = "en-us"
 theme = "academic"
 
