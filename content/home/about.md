@@ -44,19 +44,17 @@ weight = 1
 From one point, he's just one of the 7 billionth people on Earth. From another point, you can see something special in him. You can see a true passion for software quality and engineering, genuine interest in new tools and practices, free mind and beating heart.        
 
 I'm a Software Engineer with knowledge in these areas:    
-- mostly Java and Go, but also with a little bit of Groovy, Scala and Python experience       
-- Gopher since 2015     
-- AWS user since 2010     
-- passionate about Continuous Integration, Continuous Delivery, and other engineering practices     
-- strong believer in DevOps approach, trying to make work easy for my team with different tools, scripts, and hacks      
+- mostly `Java` and `Go`, but also with a little bit of `Groovy`, `Scala` and `Python` experience       
+- `AWS` user since 2010     
+- strong believer in `DevOps` approach, trying to make work easy for my team with different tools, scripts, and hacks      
 
 Open source:         
 - Contribution to several open source projects, including [Open AWS Guide](https://github.com/open-guides/og-aws), [protoactor-go](https://github.com/AsynkronIT/protoactor-go), [autospotting](https://github.com/cristim/autospotting), [flatdata](https://github.com/heremaps/flatdata) and others   
 - One of my repositories was mentioned in AWS [blog post](https://aws.amazon.com/blogs/aws/aws-week-in-review-december-28-2015 )      
 
 Recent talks:                  
-- [Selenium Camp](https://seleniumcamp.com/talk/aws-hurries-to-the-rescue/) with talk about using AWS for different types of testing activities   
-- [Heisenbug](https://heisenbug-piter.ru/en/talks/2018/spb/4wqvzujdickc2awoms6kgi/) and [DevOpsConf Russia](https://devopsconf.io/moscow/2018/abstracts/3735) with a talk about building CI from scratch         
-- [DevDays Vilnius](https://devdays.lt/artem-nikitin/) with talk about Go implementation for Flatdata         
+- [Selenium Camp](https://seleniumcamp.com/talk/aws-hurries-to-the-rescue/) with talk about using `AWS for different types of testing activities`   
+- [Heisenbug](https://heisenbug-piter.ru/en/talks/2018/spb/4wqvzujdickc2awoms6kgi/) and [DevOpsConf Russia](https://devopsconf.io/moscow/2018/abstracts/3735) with a talk about `building CI for a complex mobile product`         
+- [DevDays Vilnius](https://devdays.lt/artem-nikitin/) with talk about `Go implementation for Flatdata`         
 
 Interested? Then don't hesitate to [contact me](#contact).
