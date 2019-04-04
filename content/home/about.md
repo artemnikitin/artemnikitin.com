@@ -55,6 +55,9 @@ Open source:
 Recent talks:                  
 - [Selenium Camp](https://seleniumcamp.com/talk/aws-hurries-to-the-rescue/) with talk about using `AWS for different types of testing activities`   
 - [Heisenbug](https://heisenbug-piter.ru/en/talks/2018/spb/4wqvzujdickc2awoms6kgi/) and [DevOpsConf Russia](https://devopsconf.io/moscow/2018/abstracts/3735) with a talk about `building CI for a complex mobile product`         
-- [DevDays Vilnius](https://devdays.lt/artem-nikitin/) with talk about `Go implementation for Flatdata`         
+- [DevDays Vilnius](https://devdays.lt/artem-nikitin/) with talk about `Go implementation for Flatdata`     
+- [DelEx](https://delex-conf.com/) with talk about `usage of AWS Lambda for infrastructure tasks`       
 
-Interested? Then don't hesitate to [contact me](#contact).
+You can find my CV [here](http://stackoverflow.com/cv/artemnikitin).
+
+Don’t hesitate to contact me if you have any questions.

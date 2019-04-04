@@ -15,4 +15,3 @@ weight = 60
 autolink = true
 
 +++
-You can find my CV [here](http://stackoverflow.com/cv/artemnikitin)
