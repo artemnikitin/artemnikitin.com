@@ -1,6 +1,6 @@
 baseurl = "https://artemnikitin.com/"
 title = "Exploring the software world"
-copyright = "&copy; 2019 Artem Nikitin"
+copyright = "&copy; 2026 Artem Nikitin"
 languageCode = "en-us"
 theme = "academic"
 
@@ -9,7 +9,6 @@ disqusShortname = "artemnikitin"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-24188910-1"
-
 
 [params]
   name = "Artem Nikitin"
