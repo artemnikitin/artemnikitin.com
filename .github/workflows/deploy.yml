@@ -16,14 +16,13 @@ jobs:
           submodules: true  # Fetch Hugo themes (Git submodules)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: '0.17.0'
-          extended: false
+      - name: Download Hugo
+        run: |
+          wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17_Linux-64bit.tar.gz
+          tar -xvf hugo_0.17_Linux-64bit.tar.gz
 
       - name: Build site
-        run: hugo --minify
+        run: ./hugo_0.17_linux_amd64/hugo_0.17_linux_amd64
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
