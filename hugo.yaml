@@ -1,0 +1,81 @@
+baseURL: https://artemnikitin.com/
+languageCode: en-us
+title: Artem Nikitin
+googleAnalytics: G-8HTKYDMHCG
+
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Artem Nikitin
+  description: "Software Engineer exploring the software world"
+  keywords: [Blog, Portfolio, Software Engineering]
+  author: Artem Nikitin
+
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  homeInfoParams:
+    Title: "Hi, I'm Artem Nikitin"
+    Content: >
+      I'm a Principal Software Engineer with 10+ years of experience specializing in infrastructure, tooling, and engineering productivity.
+      
+
+      Currently at Elastic. Based in Berlin, Germany.
+
+  socialIcons:
+    - name: email
+      url: "mailto:hi@artemnikitin.com"
+    - name: github
+      url: "https://github.com/artemnikitin"
+    - name: linkedin
+      url: "https://linkedin.com/in/artemnikitin"
+
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
