@@ -4,9 +4,7 @@ title: Think different
 date: 2017-02-22 01:16:28.000000000 +02:00
 ---
 
-<center>
-<a title="By Rob Janoff (Apple) [Public domain or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AApple_logo_Think_Different.png"><img width="256" alt="Apple logo Think Different" align="middle" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Apple_logo_Think_Different.png"/></a>
-</center>      
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Apple_logo_Think_Different.png" alt="Apple logo Think Different" class="center" >}}
 
 I named this post after a very well-known slogan from Apple advertising. But we will not talk about Apple, we will talk about [Go](https://golang.org/), the programming language that was created by exactly that type of people.   
 
